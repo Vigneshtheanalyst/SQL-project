@@ -10,25 +10,25 @@ This project focuses on performing in-depth sales data analysis using SQL to der
 
 **Key Features:**
 
-**Sales Performance Analysis:**
+**1.Sales Performance Analysis:**
 
 Aggregate total sales over different periods (monthly, quarterly, yearly).
 Calculate sales growth, top-performing products, and high-revenue regions.
 
 
-**Customer Analysis:**
+**2.Customer Analysis:**
 
 Identify the most valuable customers based on total spend.
 Segment customers by region, purchase frequency, and product preference.
 
 
-**Product Trends:**
+**3.Product Trends:**
 
 Analyze sales trends for individual products, including seasonal variations.
 Identify underperforming products and suggest inventory optimizations.
 
 
-**Regional Sales Analysis:**
+**4.Regional Sales Analysis:**
 
 Compare sales performance across different regions.
 Identify regional trends and opportunities for targeted sales campaigns.
